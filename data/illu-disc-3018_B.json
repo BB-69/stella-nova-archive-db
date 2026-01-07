@@ -1,0 +1,38 @@
+{
+  "id": "3018_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Soda Shopping",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3018_B.webp",
+    "assets/illustration/disc/3018_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Maou",
+      "frame": null,
+      "bounds": {
+        "x": 900,
+        "y": 375,
+        "w": 800,
+        "h": 500
+      },
+      "bounds_end": null,
+      "rotation": 165,
+      "shear": 0,
+      "text": "CIDER DAY",
+      "notes": "",
+      "color": "#FFA500"
+    }
+  ]
+}

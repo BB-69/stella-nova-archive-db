@@ -1,0 +1,54 @@
+{
+  "id": "2005_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Flare Frenzy",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/2005_B.webp",
+    "assets/illustration/disc/2005_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 245,
+        "y": 1245,
+        "w": 1226,
+        "h": 300
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "FLARE",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 547,
+        "y": 1533,
+        "w": 618,
+        "h": 84
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

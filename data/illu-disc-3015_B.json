@@ -1,0 +1,86 @@
+{
+  "id": "3015_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Unknown Fragrance",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3015_B.webp",
+    "assets/illustration/disc/3015_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 787,
+        "y": 75,
+        "w": 814,
+        "h": 287
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Scent",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_1",
+      "frame": null,
+      "bounds": {
+        "x": 1067,
+        "y": 412,
+        "w": 257,
+        "h": 59
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Nazuka",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_2",
+      "frame": null,
+      "bounds": {
+        "x": 1399,
+        "y": 352,
+        "w": 249,
+        "h": 54
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Nazuna",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom",
+      "frame": null,
+      "bounds": {
+        "x": 686,
+        "y": 1622,
+        "w": 326,
+        "h": 46
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

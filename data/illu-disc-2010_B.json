@@ -1,0 +1,38 @@
+{
+  "id": "2010_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Fortitude",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/2010_B.webp",
+    "assets/illustration/disc/2010_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 58,
+        "y": 52,
+        "w": 1587,
+        "h": 246
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STABLER",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

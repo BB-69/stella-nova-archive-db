@@ -1,0 +1,86 @@
+{
+  "id": "1002_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Sunny Breeze",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/1002_B.webp",
+    "assets/illustration/disc/1002_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 69,
+        "y": 106,
+        "w": 860,
+        "h": 395
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "BREEZE IN MEMORIES",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 590,
+        "y": 267,
+        "w": 306,
+        "h": 62
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORIES",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom_1",
+      "frame": null,
+      "bounds": {
+        "x": 1240,
+        "y": 1580,
+        "w": 429,
+        "h": 36
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom_2",
+      "frame": null,
+      "bounds": {
+        "x": 1240,
+        "y": 1618,
+        "w": 298,
+        "h": 23
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORIES OF THE PAST",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

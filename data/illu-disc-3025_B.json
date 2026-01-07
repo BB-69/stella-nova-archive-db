@@ -1,0 +1,102 @@
+{
+  "id": "3025_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Sweet Invitation",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3025_B.webp",
+    "assets/illustration/disc/3025_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Ulala",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 30,
+        "w": 350,
+        "h": 50
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "INVITATION",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Ohhh",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 100,
+        "w": 1585,
+        "h": 200
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SWEETY",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Sonic Gif",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 1500,
+        "w": 150,
+        "h": 50
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SINGLE",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Night",
+      "frame": null,
+      "bounds": {
+        "x": 1150,
+        "y": 1325,
+        "w": 550,
+        "h": 350
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Cure | WELCOME",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Missed",
+      "frame": null,
+      "bounds": {
+        "x": 1640,
+        "y": 450,
+        "w": 50,
+        "h": 250
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1007_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Starlit Hope",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/1007_B.webp",
+    "assets/illustration/disc/1007_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 45,
+        "y": 757,
+        "w": 402,
+        "h": 101
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "NOZOMI",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 117,
+        "y": 872,
+        "w": 399,
+        "h": 31
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "memorys of the past",
+      "notes": "typo by the artist in `memorys`",
+      "color": ""
+    },
+    {
+      "id": "bottom",
+      "frame": null,
+      "bounds": {
+        "x": 732,
+        "y": 1642,
+        "w": 254,
+        "h": 45
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

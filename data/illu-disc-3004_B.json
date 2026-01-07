@@ -1,0 +1,86 @@
+{
+  "id": "3004_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Twin Moon Mischief",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3004_B.webp",
+    "assets/illustration/disc/3004_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 54,
+        "y": 194,
+        "w": 1017,
+        "h": 242
+      },
+      "bounds_end": null,
+      "rotation": -10,
+      "shear": 0,
+      "text": "Twin Moon",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_1",
+      "frame": null,
+      "bounds": {
+        "x": 321,
+        "y": 390,
+        "w": 225,
+        "h": 53
+      },
+      "bounds_end": null,
+      "rotation": -10,
+      "shear": 0,
+      "text": "Vollara",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_2",
+      "frame": null,
+      "bounds": {
+        "x": 606,
+        "y": 342,
+        "w": 256,
+        "h": 50
+      },
+      "bounds_end": null,
+      "rotation": -10,
+      "shear": 0,
+      "text": "Neuvira",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom",
+      "frame": null,
+      "bounds": {
+        "x": 567,
+        "y": 1591,
+        "w": 576,
+        "h": 74
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORIES OF THE PAST",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

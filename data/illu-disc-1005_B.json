@@ -1,0 +1,86 @@
+{
+  "id": "1005_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Lonely Dunes",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/1005_B.webp",
+    "assets/illustration/disc/1005_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 207,
+        "y": 1403,
+        "w": 1285,
+        "h": 189
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "mirage",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top",
+      "frame": null,
+      "bounds": {
+        "x": 702,
+        "y": 41,
+        "w": 293,
+        "h": 44
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_1",
+      "frame": null,
+      "bounds": {
+        "x": 778,
+        "y": 1573,
+        "w": 146,
+        "h": 36
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "AMBER",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_2",
+      "frame": null,
+      "bounds": {
+        "x": 586,
+        "y": 1611,
+        "w": 523,
+        "h": 46
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORIES OF THE PAST",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

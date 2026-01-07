@@ -1,0 +1,166 @@
+{
+  "id": "1006_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Sweet Creek",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/1006_B.webp",
+    "assets/illustration/disc/1006_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 627,
+        "y": 0,
+        "w": 385,
+        "h": 774
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "ZEPHYR",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title_z",
+      "frame": null,
+      "bounds": {
+        "x": 755,
+        "y": 56,
+        "w": 183,
+        "h": 169
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Z",
+      "notes": null,
+      "color": "#F62323"
+    },
+    {
+      "id": "title_e",
+      "frame": null,
+      "bounds": {
+        "x": 834,
+        "y": 188,
+        "w": 173,
+        "h": 167
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "E",
+      "notes": null,
+      "color": "#F5F600"
+    },
+    {
+      "id": "title_p",
+      "frame": null,
+      "bounds": {
+        "x": 633,
+        "y": 243,
+        "w": 172,
+        "h": 177
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "P",
+      "notes": null,
+      "color": "#17D717"
+    },
+    {
+      "id": "title_h",
+      "frame": null,
+      "bounds": {
+        "x": 759,
+        "y": 314,
+        "w": 178,
+        "h": 146
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "H",
+      "notes": "",
+      "color": "#2F4BF4"
+    },
+    {
+      "id": "title_y",
+      "frame": null,
+      "bounds": {
+        "x": 761,
+        "y": 456,
+        "w": 174,
+        "h": 169
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Y",
+      "notes": null,
+      "color": "#781E9D"
+    },
+    {
+      "id": "title_r",
+      "frame": null,
+      "bounds": {
+        "x": 792,
+        "y": 596,
+        "w": 175,
+        "h": 176
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "R",
+      "notes": null,
+      "color": "#CE0090"
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 747,
+        "y": 797,
+        "w": 207,
+        "h": 44
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "NAZUKA",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "bottom",
+      "frame": null,
+      "bounds": {
+        "x": 592,
+        "y": 1639,
+        "w": 516,
+        "h": 39
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORIES OF THE PAST",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "3012_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Starry Night Ode",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3012_B.webp",
+    "assets/illustration/disc/3012_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 38,
+        "y": 88,
+        "w": 695,
+        "h": 583
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STARRY-⭐",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_1",
+      "frame": null,
+      "bounds": {
+        "x": 54,
+        "y": 51,
+        "w": 176,
+        "h": 55
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "S0R",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_2",
+      "frame": null,
+      "bounds": {
+        "x": 72,
+        "y": 111,
+        "w": 156,
+        "h": 26
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SR-1000M",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_1",
+      "frame": null,
+      "bounds": {
+        "x": 75,
+        "y": 1236,
+        "w": 59,
+        "h": 18
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "CAST",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_2",
+      "frame": null,
+      "bounds": {
+        "x": 75,
+        "y": 1263,
+        "w": 152,
+        "h": 26
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "MINOVA",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_3",
+      "frame": null,
+      "bounds": {
+        "x": 77,
+        "y": 1313,
+        "w": 168,
+        "h": 26
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "VOLLARA",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_4",
+      "frame": null,
+      "bounds": {
+        "x": 74,
+        "y": 1360,
+        "w": 181,
+        "h": 30
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "NEUVIRA",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_5",
+      "frame": null,
+      "bounds": {
+        "x": 72,
+        "y": 1422,
+        "w": 144,
+        "h": 17
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "PRODUCES BY",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_6",
+      "frame": null,
+      "bounds": {
+        "x": 75,
+        "y": 1446,
+        "w": 290,
+        "h": 31
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "ASHWIND CLAN",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom-left",
+      "frame": null,
+      "bounds": {
+        "x": 90,
+        "y": 1575,
+        "w": 93,
+        "h": 67
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR record",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom-right_1",
+      "frame": null,
+      "bounds": {
+        "x": 1446,
+        "y": 1593,
+        "w": 183,
+        "h": 51
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STARS DIGITAL",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom-right_2",
+      "frame": null,
+      "bounds": {
+        "x": 1447,
+        "y": 1642,
+        "w": 182,
+        "h": 13
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORIES OF THE PAST",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

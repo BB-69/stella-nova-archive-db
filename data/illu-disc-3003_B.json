@@ -1,0 +1,102 @@
+{
+  "id": "3003_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Scorching Night's End",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3003_B.webp",
+    "assets/illustration/disc/3003_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title_1",
+      "frame": null,
+      "bounds": {
+        "x": 223,
+        "y": 1057,
+        "w": 482,
+        "h": 274
+      },
+      "bounds_end": null,
+      "rotation": 67,
+      "shear": 0,
+      "text": "AFTER",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title_2",
+      "frame": null,
+      "bounds": {
+        "x": 230,
+        "y": 1456,
+        "w": 999,
+        "h": 259
+      },
+      "bounds_end": null,
+      "rotation": -18,
+      "shear": 0,
+      "text": "FEVER",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "title_3",
+      "frame": null,
+      "bounds": {
+        "x": 1128,
+        "y": 1086,
+        "w": 729,
+        "h": 240
+      },
+      "bounds_end": null,
+      "rotation": -59,
+      "shear": 0,
+      "text": "AFTE",
+      "notes": "most likely continues as \"AFTER\"",
+      "color": ""
+    },
+    {
+      "id": "top-side_1",
+      "frame": null,
+      "bounds": {
+        "x": 121,
+        "y": 486,
+        "w": 473,
+        "h": 159
+      },
+      "bounds_end": null,
+      "rotation": -42,
+      "shear": 0,
+      "text": "AFTER",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top-side_2",
+      "frame": null,
+      "bounds": {
+        "x": 318,
+        "y": 524,
+        "w": 378,
+        "h": 136
+      },
+      "bounds_end": null,
+      "rotation": -42,
+      "shear": 0,
+      "text": "EVER",
+      "notes": "most likely full word is \"FEVER\" with F covered by Iris",
+      "color": ""
+    }
+  ]
+}

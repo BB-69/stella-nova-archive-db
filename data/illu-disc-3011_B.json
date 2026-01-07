@@ -1,0 +1,102 @@
+{
+  "id": "3011_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Meow Rhythm",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3011_B.webp",
+    "assets/illustration/disc/3011_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 207,
+        "y": 1293,
+        "w": 1296,
+        "h": 220
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "MEWLODY",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top",
+      "frame": null,
+      "bounds": {
+        "x": 124,
+        "y": 15,
+        "w": 218,
+        "h": 26
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "PLAY YOUR HEART",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom",
+      "frame": null,
+      "bounds": {
+        "x": 725,
+        "y": 1648,
+        "w": 243,
+        "h": 28
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "ELECTRONIC MUSIC",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "center_1",
+      "frame": null,
+      "bounds": {
+        "x": 1137,
+        "y": 686,
+        "w": 80,
+        "h": 78
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "M",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "center_2",
+      "frame": null,
+      "bounds": {
+        "x": 1130,
+        "y": 768,
+        "w": 98,
+        "h": 21
+      },
+      "bounds_end": null,
+      "rotation": -5,
+      "shear": 0,
+      "text": "KASHIMIRA",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

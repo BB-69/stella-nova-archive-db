@@ -1,0 +1,102 @@
+{
+  "id": "1004_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Pink Dream",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/1004_B.webp",
+    "assets/illustration/disc/1004_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 1066,
+        "y": 763,
+        "w": 605,
+        "h": 236
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Pinky",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_1",
+      "frame": null,
+      "bounds": {
+        "x": 79,
+        "y": 765,
+        "w": 192,
+        "h": 42
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Eleanor",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_2",
+      "frame": null,
+      "bounds": {
+        "x": 80,
+        "y": 842,
+        "w": 305,
+        "h": 60
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "In the memories of the past",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side_3",
+      "frame": null,
+      "bounds": {
+        "x": 80,
+        "y": 900,
+        "w": 229,
+        "h": 30
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Forget or not?",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom_1",
+      "frame": null,
+      "bounds": {
+        "x": 1367,
+        "y": 1645,
+        "w": 252,
+        "h": 41
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

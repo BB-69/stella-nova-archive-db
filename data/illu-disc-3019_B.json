@@ -1,0 +1,86 @@
+{
+  "id": "3019_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Delusion",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3019_B.webp",
+    "assets/illustration/disc/3019_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "So",
+      "frame": null,
+      "bounds": {
+        "x": 1500,
+        "y": 1525,
+        "w": 200,
+        "h": 25
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Dang",
+      "frame": null,
+      "bounds": {
+        "x": 1095,
+        "y": 1560,
+        "w": 70,
+        "h": 20
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Title",
+      "notes": null,
+      "color": "#FFA500"
+    },
+    {
+      "id": "COOL",
+      "frame": null,
+      "bounds": {
+        "x": 1130,
+        "y": 1560,
+        "w": 420,
+        "h": 100
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Dark Cure",
+      "notes": null,
+      "color": "#00FF00"
+    },
+    {
+      "id": "Coronis",
+      "frame": null,
+      "bounds": {
+        "x": 1175,
+        "y": 1650,
+        "w": 320,
+        "h": 40
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "OFFICIAL | UNOFFICIAL",
+      "notes": null,
+      "color": "#FFA500"
+    }
+  ]
+}

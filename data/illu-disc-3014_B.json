@@ -1,0 +1,182 @@
+{
+  "id": "3014_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "The Knight's Smith",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3014_B.webp",
+    "assets/illustration/disc/3014_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title_1",
+      "frame": null,
+      "bounds": {
+        "x": 10,
+        "y": 62,
+        "w": 1674,
+        "h": 303
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "BlACK",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title_2",
+      "frame": null,
+      "bounds": {
+        "x": 1254,
+        "y": 378,
+        "w": 430,
+        "h": 111
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SMITH",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_1",
+      "frame": null,
+      "bounds": {
+        "x": 20,
+        "y": 12,
+        "w": 332,
+        "h": 37
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STARRECORD",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_2",
+      "frame": null,
+      "bounds": {
+        "x": 391,
+        "y": 23,
+        "w": 457,
+        "h": 13
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "\"CRAFTED IN THE HEAT OF PASSION COOLED BY THE WEIGHT OF TIME\"",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_3",
+      "frame": null,
+      "bounds": {
+        "x": 896,
+        "y": 23,
+        "w": 547,
+        "h": 12
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "\"EVERY NOTE IN A STRIKE OF THE HAMMER EVERY MELODY A FORGED MASTERPIECE\" ",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_4",
+      "frame": null,
+      "bounds": {
+        "x": 1510,
+        "y": 20,
+        "w": 46,
+        "h": 18
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "ABOUT",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_5",
+      "frame": null,
+      "bounds": {
+        "x": 1610,
+        "y": 22,
+        "w": 58,
+        "h": 13
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "CONTACT",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom-left",
+      "frame": null,
+      "bounds": {
+        "x": 56,
+        "y": 1658,
+        "w": 193,
+        "h": 18
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "AT YOUR SERVICE",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom",
+      "frame": null,
+      "bounds": {
+        "x": 766,
+        "y": 1658,
+        "w": 195,
+        "h": 18
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "FAST & RELIABLE",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "bottom-right",
+      "frame": null,
+      "bounds": {
+        "x": 1437,
+        "y": 1658,
+        "w": 231,
+        "h": 18
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "HOTLINE - (483214)",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

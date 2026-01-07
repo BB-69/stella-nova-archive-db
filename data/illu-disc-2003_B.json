@@ -1,0 +1,54 @@
+{
+  "id": "2003_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Elysium",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/2003_B.webp",
+    "assets/illustration/disc/2003_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 516,
+        "y": 1342,
+        "w": 657,
+        "h": 194
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "DISCO",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 661,
+        "y": 1557,
+        "w": 381,
+        "h": 76
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "WELCOME",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "3009_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Rainy Tune",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3009_B.webp",
+    "assets/illustration/disc/3009_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 67,
+        "y": 1391,
+        "w": 1347,
+        "h": 233
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "RAINING",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side",
+      "frame": null,
+      "bounds": {
+        "x": 39,
+        "y": 606,
+        "w": 49,
+        "h": 360
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

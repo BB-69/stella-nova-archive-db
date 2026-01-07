@@ -1,0 +1,54 @@
+{
+  "id": "3005_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "★Bam Bam Girl★",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3005_B.webp",
+    "assets/illustration/disc/3005_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 523,
+        "y": 1280,
+        "w": 653,
+        "h": 237
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "BOOM MAIDEN",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-top",
+      "frame": null,
+      "bounds": {
+        "x": 569,
+        "y": 1186,
+        "w": 557,
+        "h": 104
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "MISTIQUE'S LITE",
+      "notes": "`LITE` is most likely an artist's typo",
+      "color": ""
+    }
+  ]
+}

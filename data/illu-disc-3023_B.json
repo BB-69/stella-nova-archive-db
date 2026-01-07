@@ -1,0 +1,70 @@
+{
+  "id": "3023_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Pure White",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3023_B.webp",
+    "assets/illustration/disc/3023_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Guhh",
+      "frame": null,
+      "bounds": {
+        "x": 220,
+        "y": 0,
+        "w": 175,
+        "h": 600
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "White",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Ughh",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 0,
+        "w": 175,
+        "h": 1050
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Interlude",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "huggg",
+      "frame": null,
+      "bounds": {
+        "x": 1575,
+        "y": 1250,
+        "w": 100,
+        "h": 425
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Beatrice",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

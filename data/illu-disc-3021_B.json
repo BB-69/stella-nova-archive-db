@@ -1,0 +1,54 @@
+{
+  "id": "3021_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Miraculous Anthem",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3021_B.webp",
+    "assets/illustration/disc/3021_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Beatrice",
+      "frame": null,
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 900
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Mirror And Answer vorgil",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "Better",
+      "frame": null,
+      "bounds": {
+        "x": 1100,
+        "y": 1400,
+        "w": 380,
+        "h": 300
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "go another way",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "3022_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Love River's Curse",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3022_B.webp",
+    "assets/illustration/disc/3022_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "You",
+      "frame": null,
+      "bounds": {
+        "x": 1150,
+        "y": 250,
+        "w": 100,
+        "h": 300
+      },
+      "bounds_end": null,
+      "rotation": 50,
+      "shear": 0,
+      "text": "SAVE THINGS | ETERNAL",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Gotta",
+      "frame": null,
+      "bounds": {
+        "x": 1500,
+        "y": 75,
+        "w": 100,
+        "h": 200
+      },
+      "bounds_end": null,
+      "rotation": 50,
+      "shear": 0,
+      "text": "BEFORE ME | THINGS CREATED | WERE NONE",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "Be ",
+      "frame": null,
+      "bounds": {
+        "x": 1400,
+        "y": 400,
+        "w": 100,
+        "h": 400
+      },
+      "bounds_end": null,
+      "rotation": 50,
+      "shear": 0,
+      "text": "AND ETERNAL | I ENDURE",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Kidding",
+      "frame": null,
+      "bounds": {
+        "x": 1200,
+        "y": 950,
+        "w": 300,
+        "h": 850
+      },
+      "bounds_end": null,
+      "rotation": 55,
+      "shear": 0,
+      "text": "INFERNO | DANTE ALIGHIERI",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

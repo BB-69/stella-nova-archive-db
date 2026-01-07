@@ -1,0 +1,86 @@
+{
+  "id": "3013_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Leaf Her to Me",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3013_B.webp",
+    "assets/illustration/disc/3013_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 800,
+        "y": 1334,
+        "w": 814,
+        "h": 262
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "WHISPERS AUTUMN",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_1",
+      "frame": null,
+      "bounds": {
+        "x": 1135,
+        "y": 1598,
+        "w": 373,
+        "h": 37
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "NOW RELEASE",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_2",
+      "frame": null,
+      "bounds": {
+        "x": 875,
+        "y": 1575,
+        "w": 91,
+        "h": 18
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SINGLE",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub_3",
+      "frame": null,
+      "bounds": {
+        "x": 792,
+        "y": 1600,
+        "w": 257,
+        "h": 32
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "- STAR RECORD -",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2009_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Eclipse",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/2009_B.webp",
+    "assets/illustration/disc/2009_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 757,
+        "y": 1318,
+        "w": 904,
+        "h": 300
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Agony",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 1183,
+        "y": 1614,
+        "w": 292,
+        "h": 32
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "FORGET OR NOT",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

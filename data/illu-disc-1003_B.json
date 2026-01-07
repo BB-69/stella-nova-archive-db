@@ -1,0 +1,86 @@
+{
+  "id": "1003_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Indigo Sunset",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/1003_B.webp",
+    "assets/illustration/disc/1003_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 412,
+        "y": 1264,
+        "w": 882,
+        "h": 272
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SUNSET",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 667,
+        "y": 1555,
+        "w": 381,
+        "h": 39
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "MEMORIES",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top_1",
+      "frame": null,
+      "bounds": {
+        "x": 10,
+        "y": 80,
+        "w": 439,
+        "h": 33
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "top_2",
+      "frame": null,
+      "bounds": {
+        "x": 15,
+        "y": 115,
+        "w": 301,
+        "h": 21
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORIES OF THE PAST",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

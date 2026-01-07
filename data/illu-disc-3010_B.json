@@ -1,0 +1,118 @@
+{
+  "id": "3010_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Steam Syndrome",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3010_B.webp",
+    "assets/illustration/disc/3010_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title_1",
+      "frame": null,
+      "bounds": {
+        "x": 57,
+        "y": 1230,
+        "w": 935,
+        "h": 244
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STEAM",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title_2",
+      "frame": null,
+      "bounds": {
+        "x": 215,
+        "y": 1414,
+        "w": 769,
+        "h": 179
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "-CHILIA",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-sub",
+      "frame": null,
+      "bounds": {
+        "x": 274,
+        "y": 1583,
+        "w": 671,
+        "h": 54
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SHIMIAO N LINJING",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "title-top",
+      "frame": null,
+      "bounds": {
+        "x": 59,
+        "y": 1217,
+        "w": 242,
+        "h": 47
+      },
+      "bounds_end": null,
+      "rotation": -22,
+      "shear": 0,
+      "text": "BAOBAO",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side-bottom_1",
+      "frame": null,
+      "bounds": {
+        "x": 153,
+        "y": 1541,
+        "w": 99,
+        "h": 59
+      },
+      "bounds_end": null,
+      "rotation": 25,
+      "shear": 0,
+      "text": "CITY POP",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "side-bottom_2",
+      "frame": null,
+      "bounds": {
+        "x": 117,
+        "y": 1570,
+        "w": 144,
+        "h": 53
+      },
+      "bounds_end": null,
+      "rotation": 23,
+      "shear": 0,
+      "text": "VAPORWAVE",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

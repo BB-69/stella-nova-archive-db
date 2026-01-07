@@ -1,0 +1,54 @@
+{
+  "id": "1008_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Homeward Path",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/1008_B.webp",
+    "assets/illustration/disc/1008_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 197,
+        "y": 1000,
+        "w": 855,
+        "h": 287
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "HOME WAY",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "top",
+      "frame": null,
+      "bounds": {
+        "x": 1323,
+        "y": 34,
+        "w": 305,
+        "h": 44
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

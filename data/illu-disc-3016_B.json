@@ -1,0 +1,38 @@
+{
+  "id": "3016_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Cage of Rose",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3016_B.webp",
+    "assets/illustration/disc/3016_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Lick",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 1350,
+        "w": 1010,
+        "h": 300
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "CAGEROSA",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

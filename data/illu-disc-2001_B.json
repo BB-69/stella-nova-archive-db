@@ -1,0 +1,38 @@
+{
+  "id": "2001_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Grand Feast",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/2001_B.webp",
+    "assets/illustration/disc/2001_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.0.0"
+  },
+  "overlays": [
+    {
+      "id": "title",
+      "frame": null,
+      "bounds": {
+        "x": 166,
+        "y": 209,
+        "w": 1401,
+        "h": 398
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "PUNCH",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

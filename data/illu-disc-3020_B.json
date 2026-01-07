@@ -1,0 +1,102 @@
+{
+  "id": "3020_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "The Shining",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3020_B.webp",
+    "assets/illustration/disc/3020_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Seriously?",
+      "frame": null,
+      "bounds": {
+        "x": 1450,
+        "y": 0,
+        "w": 220,
+        "h": 50
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "ISSUE NO.0",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "Big One",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 45,
+        "w": 1600,
+        "h": 600
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Shining",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Man...",
+      "frame": null,
+      "bounds": {
+        "x": 100,
+        "y": 1275,
+        "w": 575,
+        "h": 150
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "COVER STORY | THE BLAST",
+      "notes": "",
+      "color": ""
+    },
+    {
+      "id": "Nice",
+      "frame": null,
+      "bounds": {
+        "x": 100,
+        "y": 1450,
+        "w": 300,
+        "h": 150
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "INTERVIEW | PLAY",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Watermark be like",
+      "frame": null,
+      "bounds": {
+        "x": 1400,
+        "y": 1425,
+        "w": 250,
+        "h": 125
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "SPARK RELEASE ALBUM",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

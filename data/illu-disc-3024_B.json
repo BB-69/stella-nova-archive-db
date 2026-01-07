@@ -1,0 +1,38 @@
+{
+  "id": "3024_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Holiday Bubble",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3024_B.webp",
+    "assets/illustration/disc/3024_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Lmao",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 1150,
+        "w": 1000,
+        "h": 500
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "REST PORTIA",
+      "notes": null,
+      "color": "#FFA500"
+    }
+  ]
+}

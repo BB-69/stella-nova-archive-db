@@ -1,0 +1,70 @@
+{
+  "id": "3026_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "VENT IT OUT",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3026_B.webp",
+    "assets/illustration/disc/3026_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "@n/y",
+      "frame": null,
+      "bounds": {
+        "x": 275,
+        "y": 50,
+        "w": 275,
+        "h": 75
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "@beatrice",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Big",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 400,
+        "w": 1600,
+        "h": 275
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Clean Time",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Small",
+      "frame": null,
+      "bounds": {
+        "x": 1300,
+        "y": 375,
+        "w": 275,
+        "h": 100
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "DA YO",
+      "notes": null,
+      "color": "#FFA500"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "4048_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Snowy Night Surprise",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/4048_B.webp",
+    "assets/illustration/disc/4048_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "1.4.0"
+  },
+  "overlays": [
+    {
+      "id": "Merry",
+      "frame": null,
+      "bounds": {
+        "x": 1250,
+        "y": 50,
+        "w": 375,
+        "h": 300
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Gift",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Christmas",
+      "frame": null,
+      "bounds": {
+        "x": 1050,
+        "y": 220,
+        "w": 635,
+        "h": 275
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "With the Snow",
+      "notes": null,
+      "color": "#FFA500"
+    },
+    {
+      "id": "Y'all",
+      "frame": null,
+      "bounds": {
+        "x": 110,
+        "y": 1585,
+        "w": 600,
+        "h": 65
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "May your dreams come true",
+      "notes": "",
+      "color": ""
+    }
+  ]
+}

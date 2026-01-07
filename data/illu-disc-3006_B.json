@@ -1,0 +1,118 @@
+{
+  "id": "3006_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Good Night",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3006_B.webp",
+    "assets/illustration/disc/3006_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Inner Circle",
+      "frame": null,
+      "bounds": {
+        "x": 0,
+        "y": 85,
+        "w": 325,
+        "h": 420
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "CAT LETTER",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Cute",
+      "frame": null,
+      "bounds": {
+        "x": 370,
+        "y": 40,
+        "w": 1300,
+        "h": 180
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "OYASUMI",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "And",
+      "frame": null,
+      "bounds": {
+        "x": 1310,
+        "y": 215,
+        "w": 360,
+        "h": 75
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "MEMORY",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Funny",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 1510,
+        "w": 460,
+        "h": 45
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Freesia/Donna/Teresa",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Trio",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 1560,
+        "w": 640,
+        "h": 45
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IN MEMORY OF THE PAST",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Sobs",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 1610,
+        "w": 320,
+        "h": 45
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "STAR RECORD",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}

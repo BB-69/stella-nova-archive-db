@@ -1,0 +1,70 @@
+{
+  "id": "3008_B",
+  "type": "image",
+  "category": "illustration",
+  "sub_category": [
+    "disc"
+  ],
+  "title": "Tranquil Retreat",
+  "description": "< null >",
+  "source": [
+    "assets/illustration/disc/3008_B.webp",
+    "assets/illustration/disc/3008_B.png"
+  ],
+  "meta": {
+    "width": 1700,
+    "height": 1700,
+    "frames": null,
+    "version": "0.0.0"
+  },
+  "overlays": [
+    {
+      "id": "Peak",
+      "frame": null,
+      "bounds": {
+        "x": 50,
+        "y": 50,
+        "w": 750,
+        "h": 400
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "Nuc",
+      "notes": null,
+      "color": ""
+    },
+    {
+      "id": "Trio",
+      "frame": null,
+      "bounds": {
+        "x": 800,
+        "y": 1570,
+        "w": 825,
+        "h": 50
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "ENJOY THE GIFT FROM THE JOURNEY",
+      "notes": null,
+      "color": "#FFA500"
+    },
+    {
+      "id": "Btw",
+      "frame": null,
+      "bounds": {
+        "x": 1220,
+        "y": 1620,
+        "w": 405,
+        "h": 50
+      },
+      "bounds_end": null,
+      "rotation": 0,
+      "shear": 0,
+      "text": "IRIS NOYA AMBER",
+      "notes": null,
+      "color": ""
+    }
+  ]
+}
