@@ -36,7 +36,7 @@
 
 ## ID
 
-Usually similar to file name.
+Usually similar to file name, or the same as target image name in [assets/](/assets/) directory.
 
 ## Type
 
@@ -63,7 +63,7 @@ Usually similar to file name.
 
 ## Title
 
-Title of the content. A good starting point to name [ID](#id)
+Title of the content. Usually the name of the content specified inside the game.
 
 ## Description
 
@@ -72,14 +72,27 @@ Description of the content.
 ## Source
 
 A path from root to target directory.
-`assets/<category>/<file>`
+`assets/<category>/<sub_category>/<file>`
 
 ```
 assets/
+│
 ├ illustration/
-├ live2D/
+│ ├ background/
+│ ├ character/
+│ └ disc/
+│
+├ live2d/
+│ ├ background/
+│ └ character/
+│
 ├ battle_stage/
-├ UI/
+│ └ ascension/
+│
+├ ui/
+│ ├ in_game/
+│ └ encyclopedia/
+│
 └ other/
 ```
 
