@@ -1,5 +1,6 @@
 {
   "major": false,
-  "minor": false,
-  "patch": true
+  "minor": true,
+  "patch": true,
+  "assets": false
 }

@@ -27,9 +27,13 @@ if (hasBumpConfig) {
 
   let versionText = data.substring(start + startMarker.length, end).trim();
   versionText = versionText.substring(versionText.indexOf("v") + 1);
-  let [major, minor, patch] = versionText.split(".").map(Number);
+  const [mainVersion, assetsVersion] = versionText.split("_");
+  let assets = Number(assetsVersion) ?? 0;
+  let [major, minor, patch] = mainVersion.split(".").map(Number);
 
-  if (vBumpConfigJson.major) {
+  if (vBumpConfigJson.assets) {
+    assets++;
+  } else if (vBumpConfigJson.major) {
     major++;
     minor = 0;
     patch = 0;
@@ -37,7 +41,7 @@ if (hasBumpConfig) {
     minor++;
     patch = 0;
   } else if (vBumpConfigJson.patch) patch++;
-  const newVersion = `${major}.${minor}.${patch}`;
+  const newVersion = `${major}.${minor}.${patch}_${assets}`;
   const updatedData =
     data.substring(0, start + startMarker.length) +
     "\n> v" +
