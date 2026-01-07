@@ -8,6 +8,10 @@
 - `assets` - Assets version incremental for [assets/](/assets/) directory.
 - `data` - Data version incremental for [data/](/data/) directory.
 
+> `major`, `minor`, and `patch` are for internal logic ecosystem.
+
+> `assets` and `data` are related to contribution versioning.
+
 ## Versioning method
 
 **DO NOT** do versioning in [package.json](/package.json) or [README.md](/README.md) but instead in [vbump-config.json](/.github/vbump-config.json) and see below about bump behavior when the value is `true`:
@@ -24,7 +28,7 @@
   - Bump patch version
 - `assets`
   - Bump assets version
-  - **Override `major`, `minor` and `patch` config**
+  - **Override `major`, `minor`, and `patch` config**
 - `data`
   - Bump data version
-  - **Override `major`, `minor` and `patch` config**
+  - **Override `major`, `minor`, and `patch` config**
