@@ -28,8 +28,8 @@ if (hasBumpConfig) {
   let versionText = data.substring(start + startMarker.length, end).trim();
   versionText = versionText.substring(versionText.indexOf("v") + 1);
   const [mainVersion, assetsVersion, dataVersion] = versionText.split("_");
-  let assetsV = Number(assetsVersion.substring(1)) ?? 0;
-  let dataV = Number(dataVersion.substring(1)) ?? 0;
+  let assetsV = Number(assetsVersion?.substring(1) ?? "0");
+  let dataV = Number(dataVersion?.substring(1) ?? "0");
   let [major, minor, patch] = mainVersion.split(".").map(Number);
 
   if (vBumpConfigJson.assets || vBumpConfigJson.data) {
