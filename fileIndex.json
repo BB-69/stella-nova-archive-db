@@ -206,6 +206,7 @@
   "data/illu-disc-3026_B.json",
   "data/illu-disc-4048_B.json",
   "doc/contribution.md",
+  "doc/versioning.md",
   "package-lock.json",
   "package.json",
   "public/doc/sna1.png",
