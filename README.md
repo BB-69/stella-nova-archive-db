@@ -5,6 +5,7 @@
 ### Documentation Index
 
 > [Contribution](/doc/contribution.md)
+> [Versioning](/doc/versioning.md)
 
 # ABOUT DATA
 
