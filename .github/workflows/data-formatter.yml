@@ -1,0 +1,41 @@
+Name: Data Formatter
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - data-workflow
+
+jobs:
+  format-data:
+    runs-on: ubuntu-latest
+
+    if: github.event.pull_request.head.repo.full_name == github.repository &&
+      github.actor != 'dependabot[bot]' &&
+      github.actor != 'github-actions[bot]'
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Format data
+        run: node .github/scripts/formatDataJson.js
+
+      - name: Set Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push changes back to PR branch
+        run: |
+          git pull origin ${{ github.head_ref }}
+          git add data/
+          git commit -m "Formatted data" || echo "All data has already passed formatting"
+          git push origin HEAD:${{ github.head_ref }}
