@@ -19,6 +19,7 @@
 
   "overlays": [
     {
+      "uid": string,
       "id": string,
       "frame": { "s": integer, "e": integer } | null,
       "bounds": { "x": integer, "y": integer, "w": integer, "h": integer },
@@ -33,6 +34,10 @@
   ]
 }
 ```
+
+## UID
+
+Uniquely generated ID. Mainly for reference purpose for internal logic.
 
 ## ID
 
